@@ -1,0 +1,89 @@
+h1{
+    color: white;
+    margin-top: 0%  
+  
+    }
+    .head{
+        height: 700px;
+        width: 100%;
+       
+        
+         background-image:url("head.jpg");
+         background-size: cover;
+    }
+    body{
+        background-color:blanchedalmond;
+    }
+    h1:hover{
+        color: red;
+        color: rgb(250, 215, 217);
+        font-size: 100px;
+        transition:  font-size 2sec ease-in 5sec;
+    }
+
+
+    #filter{
+        margin-top: 10px;
+        height: 30px;
+        width: 150px;
+        background-color: white;
+        border-radius: 50px;
+       
+    }
+    #sort{
+        margin-top: 10px;
+        height: 30px;
+        width: 150px;
+        background-color: white;
+        border-radius: 50px;
+    }
+    .bar{
+        display: flex;
+       flex-wrap: wrap;
+       flex-direction: center;
+       justify-content: space-between;
+     
+       
+       
+    
+    }
+    #box{
+        margin-top: 10px;
+        height: 40px;
+        width: 150;
+        border-radius: 10px;
+        border: 1px solid black;
+    }
+    .box:hover{
+        transform: scale(1.1);
+    
+    }
+    .final{
+  
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+      
+         margin-top: 2%;
+         transition: 1s;
+     border-radius: 50%;
+        
+     }
+     .box{
+    
+        font-size: 30px;
+      
+        
+        
+        
+    }
+    #foot{
+        height: 500px;
+        width: 100%;
+        background-color: rgb(54, 56, 133);
+    }
+    #text{
+        margin-top: 0%;
+        color: blanchedalmond;
+       
+    }     

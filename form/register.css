@@ -1,0 +1,10 @@
+.form{
+    height: 350px;
+    width: 210px;
+    border: 2px blue;
+    background-color: rgb(40, 106, 192);
+    display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   color: rgb(229, 153, 153);
+}

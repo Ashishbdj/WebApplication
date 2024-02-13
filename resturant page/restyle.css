@@ -1,0 +1,47 @@
+.section1{
+    width: 100%;
+    border: violet;
+    font-size: medium;
+    font-weight: bold;
+    background: url(../image/soup/Quick-Golden-Squash-Soup_EXPS_SDON18_35949_C06_14_12b-4.jpg);
+}
+.section1 h1{
+    font-size: 50px;
+}
+    
+#btn:hover{
+    color: rgb(104, 74, 74);
+    background-color: rgb(54, 143, 143);
+    border-radius: 50%;
+}
+.para{
+    font-size: 12px;
+    font-weight: lighter;
+}
+.menu{
+    display: flex;
+    
+}
+
+.div2{
+    width: 100%;
+    text-align: right;
+    
+}
+.img{
+    width: 100px;
+    border-radius: 6px;
+    margin-top: 30px;
+    margin-right: 0px;
+    text-align: right;    ;
+}
+.btn
+{
+    width: 80px;
+    font-size: large;
+    margin-right: 11px;
+}
+.btn:hover{
+    color: aquamarine;
+    background-color: azure;
+}
